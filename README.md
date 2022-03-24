@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+## Maycon Amancio
 
-You can use the [editor on GitHub](https://github.com/mayconamancio/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### SOBRE MIM
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Aprendi ao longo dos anos trabalhar em equipe, se sentir bem em
+estar colaborando com todas as pessoas ; escutar e respeitar as
+opiniões alheias diversas das minhas; preferir trabalhar em conjunto
+para alcançar um objetivo comum, e a trabalhar sozinho para almejar
+por metas individuais. Aprender a aceitar críticas; aprendi a delegar
+tarefas; pedir opiniões para os demais e eliminar as barreiras formais
+em situações rotineiras.
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+HABILIDADES
 
-- Bulleted
-- List
+- Adobe Photoshop
+- Adobe After Effects
+- Metrologia (Estudos de medidas)
+- Motion Designer
+- Infraestrutura rede de computadores
+- Ecxel Avançado
+- Microsoft'OS
+- MAC'OS
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### FORMAÇÃO ACADÊMICA
+```markdown
+Técnico Informática
+(2009-2011)
 
-### Jekyll Themes
+Técnico Telecomunicações
+(2020-2021)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mayconamancio/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ENSINO MÉDIO COMPLETO
 
-### Support or Contact
+```
+### EXPERIÊNCIA
+```markdown
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Técnico Telecomunicações
+(2021 - 2021)
+Instalação internet/TV Claro.
+
+Sub Gerente TI
+(2017 - 2018)
+Marketing Lojas e infraestrutura de
+rede.
+
+Analista TI
+(2013-2016)
+Suporte ao usuário, configuração de
+computadores e manutenção.
+
+```
+### IDIOMAS
+```markdown
+LIBRAS
+
+```
+### HABILITAÇÃO
+```markdown
+A - B
+```
+### CONTATO
+[email](maycon_santos@ymail.com) and we’ll help you sort it out.
